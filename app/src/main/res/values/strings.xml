@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="top_bar_title">Контакты</string>
+
+
+    <string name="contacts_cleaner_title">Очистка повторяющихся контактов</string>
+    <string name="contacts_empty">Контактов нет</string>
+    <string name="btn_delete_duplicates">Удалить повторяющиеся контакты</string>
+
+    <string name="msg_duplicate_contacts_deleted">Повторяющиеся контакты удалены успешно</string>
+    <string name="msg_duplicate_contacts_not_found">Повторяющиеся контакты не найдены</string>
+
+    <string name="permission_not_requested_title">Нужен доступ к контактам</string>
+    <string name="permission_not_requested_desc">Приложение сможет найти и удалить повторяющиеся контакты.</string>
+    <string name="permission_btn_allow">Разрешить доступ</string>
+
+    <string name="permission_rationale_title">Без доступа к контактам приложение не сможет работать</string>
+    <string name="permission_rationale_desc">Нам нужны разрешения на чтение и изменение контактов, чтобы найти дубликаты и удалить лишние записи.</string>
+    <string name="permission_btn_try_again">Попробовать снова</string>
+
+    <string name="permission_settings_title">Доступ к контактам отключен</string>
+    <string name="permission_settings_desc">Вы запретили доступ к контактам. Чтобы продолжить, откройте настройки приложения и включите разрешения для контактов.</string>
+    <string name="permission_btn_open_settings">Открыть настройки</string>
+</resources>
